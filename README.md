@@ -23,9 +23,6 @@ This project demonstrates data analysis and visualization using Power BI. It inc
 ![visual-2](https://github.com/user-attachments/assets/89626339-9d9c-4d2a-9c4c-d1ff6334be7d)
 
 
-### Insights
-![Insights Screenshot](screenshots/insights.png)
-
 ## How to Use
 1. Clone this repository:
    ```bash
