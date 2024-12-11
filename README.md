@@ -19,7 +19,8 @@ This project demonstrates data analysis and visualization using Power BI. It inc
 
 ## Screenshots
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](![visual-2](https://github.com/user-attachments/assets/699ade3d-afc2-49ca-855d-abfee191b1c0)
+)
 
 ### Insights
 ![Insights Screenshot](screenshots/insights.png)
